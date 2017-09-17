@@ -1,0 +1,3 @@
+Southern Africa currently faces a major Oncology Crisis – there is a shortage of skilled Oncologists. This in turn, has resulted in the eventual and inevitable death of patients, particularly in the province of KwaZulu-Natal. The Medical, Oncology sector of SA is thus in a state of darkness; despair.  
+
+The Oncology Crisis can be uplifted into light; hope – again. This can be done via Technology – Teleoncology and Artificial Intelligence. With Teleoncology, Cancer patients retrieve access to Oncologists from remote locations via telecommunication for example, video-conferencing, mobile. Programmers can program Artificial Intelligence Software which would be able to diagnose Cancer.

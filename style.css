@@ -1,0 +1,79 @@
+/*Bismillahir Rahmaanir Raheem Almadadh Ya Gause Radi Allahu Ta'alah Anh*/
+
+body {
+    background-image:url("South-African-Flag.jpg");
+	color: white;
+	text-align: center;
+	font-weight:bold;
+	font-family:arial,"Times New Roman", Times, serif;
+}
+
+/* unvisited link */
+a:link {
+    color: yellow;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+h1 {
+    color: white;
+	font-size: 230%;
+	text-shadow: 7px 2px #8B0000;
+	text-align: center;
+    font-family:arial,"Times New Roman", Times, serif;
+}
+
+h2 {
+    color: #B8860B;
+	font-size: 225%;
+	text-align: center;
+	font-family:arial,"Times New Roman", Times, serif;
+}
+
+h3 {
+    color: black;
+	font-size: 230%;
+	text-align: center;
+	font-family:arial,"Times New Roman", Times, serif;
+}
+
+#top{
+  align: top;
+  width: 90%;
+  height: 15%;
+  background-image: url("starry_night_192398.jpg");
+  border: solid;
+  border-color: black;
+}
+
+#middle{
+  align: center;
+  width: 90%;
+  height: 30%;
+  background:white;
+  border: solid;
+  border-color: white;
+}
+
+#bottom{
+  align: bottom;
+  width: 90%;
+  height: 15%;
+  background-image: url("sunrise.jpg");
+  background-repeat: no-repeat;
+  border: solid;
+  border-color: #F5DEB3;
+}
